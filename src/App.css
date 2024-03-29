@@ -1,0 +1,48 @@
+
+button:hover{
+    color: red; 
+}
+
+.ff{
+  margin-top: 10px;
+  display: flex;
+  display: inline; 
+  font-size: large;
+}
+
+.gg{
+  margin-left:40px ;
+  display:inline;
+  font-size: xx-large;
+}
+
+.dd{
+  font-size: x-large;
+}
+.aa{
+  margin-top:60px;
+}
+
+
+.bb{
+  font-size: xx-large;
+}
+
+
+.mm{
+  font-size: xx-large;
+  display: inline;
+  
+}
+
+h2{
+  margin-top: 20px;
+}
+
+.hh{
+  
+  margin-top: 120px;
+
+}
+
+
